@@ -51,7 +51,7 @@ Feel free to fork it !
 
 ## Authors
 
-**Habibi Med Wassim** - _Game-Dev Student_ - [Habibi Med Wassim](https://github.com/hmwassim) - \*\*
+**HM. Wassim** - _Game-Dev Student_ - [HM. Wassim](https://github.com/hmwassim) - \*\*
 
 ## Acknowledgements
 
